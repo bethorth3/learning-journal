@@ -1,1 +1,1 @@
-# This the explanation of Githb to share.
+## This is the explanation of Github to share with a non-technical friend.
