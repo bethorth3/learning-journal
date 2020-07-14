@@ -1,7 +1,7 @@
-## This is the explanation of Github to share with a non-technical friend as a blog post.
+# This is the explanation of Github to share with a non-technical friend as a blog post.
 
 
-######This is an example of a really small Heading
+###### This is an example of a really small Heading
 
 
 This adventure into coding has been really interesting. So far I've learned about repl.it and GitHub, which are both ways to create a website. I won't go to far into repl.it right now, but it was a very fun way to get a quick taste of making a website using HTML and CSS. HTML is a mark up language that dictates what an area on the page should be, whether it is a box, sentence, field, etc. CSS makes that area look pretty. There are many tutorials out there to help with getting started, or you could take the Delta V 101 course.
