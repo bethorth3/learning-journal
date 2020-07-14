@@ -4,6 +4,8 @@
 
 **Hi, My name is Beth.**
 
+**Growth Mindset means to keep an open mind, be flexible and willing to try multiple times to learn a new skill. Stay calm, BREATH, and remember the world won't fall over if you have to try again.**
+
  *Here is a list of some things that help me start my day:*
   1. Coffee
   2. Prayer
