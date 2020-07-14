@@ -2,8 +2,10 @@
 
 ## 102-learning-journal
 
-**Hi, My name is Beth. Coding is a very interesting way to spend a day. To learn more about me, check out my [profile].**(/https://github.com/bethorth3)
-
+**Hi, My name is Beth. Coding is a very interesting way to spend a day.** 
+~~~
+   To learn more about me, check out my [profile](/https://github.com/bethorth3).
+~~~
 **Growth Mindset means to keep an open mind, be flexible and willing to try multiple times to learn a new skill. Stay calm, BREATH, and remember the world won't fall over if you have to try again.**
 
  *Here is a list of some things that help me start my day:*
