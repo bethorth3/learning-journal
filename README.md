@@ -4,6 +4,12 @@
 
 **Hi, My name is Beth.**
 
+ -Here is a list of some things that help me start my day:-
+  -Coffee-
+  -Prayer-
+  -Working out-
+  -The dog-
+  -Coffee-
 
 -Here is an example of a table of contents for a learning journal
 
