@@ -3,7 +3,7 @@
 ## 102-learning-journal
 
 **Hi, My name is Beth. Coding is a very interesting way to spend a day.** 
-~~~
+
 
 
    To learn more about me, check out my [GitHub portfolio](/https://github.com/bethorth3).
