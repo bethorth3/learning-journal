@@ -2,7 +2,7 @@
 
 ## 102-learning-journal
 
-**Hi, My name is Beth.**
+**Hi, My name is Beth. Coding is a very interesting way to spend a day. To learn more about me, check out my [profile].**(/https://github.com/bethorth3)
 
 **Growth Mindset means to keep an open mind, be flexible and willing to try multiple times to learn a new skill. Stay calm, BREATH, and remember the world won't fall over if you have to try again.**
 
@@ -12,6 +12,8 @@
   3. Working out
   4. The dog
   5. Coffee
+  
+  
 
 -Here is an example of a table of contents for a learning journal
 
