@@ -24,7 +24,7 @@
 
 
 Table of contents
-- [Markdown Examples from Class One- 102](/markdown-examples.md)
-- [Discussion from Class 1- 102](/Discussion.md)
-- [Discussion from Class 2- 102](/Discussion2.md)
-- [Discussion from Class 3- 102](/Discussion3.md)
+- [Markdown Examples from Class One- 102](markdown-examples.md)
+- [Discussion from Class 1- 102](Discussion.md)
+- [Discussion from Class 2- 102](Discussion2.md)
+- [Discussion from Class 3- 102](Discussion3.md)
