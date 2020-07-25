@@ -1,6 +1,6 @@
-#Lesson of class 2- Install Fest is Hard!
+# Lesson of class 2- Install Fest is Hard!
 
-##There is a lot of information in there to learn.
+## There is a lot of information in there to learn.
 
 
 I struggled with the installs until Marc sent me a different tutorial. It was similar to the first one, but explained some steps in a lot more detail. I still was not able to get node.js to install, but Marc said we won't use that until the 201 course. 
