@@ -28,3 +28,4 @@ Table of contents
 - [Discussion from Class 1- 102](Discussion.md)
 - [Discussion from Class 2- 102](Discussion2.md)
 - [Discussion from Class 3- 102](Discussion3.md)
+- [Class 3 stretch goal](Discussion3thoughts.md)
