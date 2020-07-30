@@ -1,0 +1,5 @@
+The section of the class on html has been my favorite so far. I like having a book to reference and not have to rely on my notes, or if I can find the answer to my question within the video.  I found that the lessons on the basic html were a good refresher since its been a while since I took the 101 course. 
+
+I chose mountain biking as my topic because its a fun hobby. And the page is going to be geared towards women who mountain bike because there aren't many resources for us in the mountain bike realm. As I was building it I was able to make the unordered list and was able to add a link for a different mountain bike group. That was fun to see happen. In 101 we also added pictures and made the page look the way we wanted with javascript, but I wasn't sure how far to take it for the html lesson. 
+
+I plan to continue to use this page and expand on it as I learn how to do different things with code.
